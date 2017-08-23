@@ -58,6 +58,7 @@ based on http://keepachangelog.com/en/1.0.0/
 - License file.
 
 ### Changed
+- Snippet prefix for inline math ([#39](https://github.com/area/language-latex/issues/39) and [#40](https://github.com/area/language-latex/pull/40)).
 - Refactoring of snippets.
 - Naming of control sequences which start with `\Declare`.
 - Disable indent after `\begin{document}`.
