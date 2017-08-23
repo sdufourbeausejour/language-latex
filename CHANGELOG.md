@@ -46,7 +46,7 @@ based on http://keepachangelog.com/en/1.0.0/
 - Grammar for `\def` and its variants.
 - Grammar for definition macros provided by `xparse` package.
 - Grammar for deprecated font commands.
-- Support for major languages' grammar in `minted` environment. ([yudai-nkt/language-tex#5](https://github.com/yudai-nkt/language-tex/pull/5)).
+- Support for major languages' grammar in `minted` environment ([yudai-nkt/language-tex#5](https://github.com/yudai-nkt/language-tex/pull/5)).
 - Snippets for `figure` and `table` environment. ([yudai-nkt/language-tex#6](https://github.com/yudai-nkt/language-tex/pull/6)).
 - Grammar for `\bibitem`.
 - Grammar for `\kcatcode`.
@@ -55,7 +55,7 @@ based on http://keepachangelog.com/en/1.0.0/
 - Grammar for deprecated `eqnarray` environment.
 - Grammar for Beamer's `\usetheme` and its components.
 - Grammar for single quotation.
-- License file..
+- License file.
 
 ### Changed
 - Refactoring of snippets.
@@ -101,7 +101,7 @@ __Disclaimer__: Version 0.5.0 is missing due to ower's mistake. See [`3d233d1`](
 
 ## [0.4.1] - 2014-09-03
 ### Fixed
-- Malformed indentation in snippets file ([#16](https://github.com/area/language-latex/issues/16))
+- Malformed indentation in snippets file ([#16](https://github.com/area/language-latex/issues/16)).
 
 ## [0.4.0] - 2014-09-02
 ### Added
