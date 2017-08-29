@@ -54,7 +54,7 @@
     'body': '\\\\begin{gather$1}\n\t$0\n\\\\end{gather$1}'
   'itemize':
     'prefix': 'itemize'
-    'body': '\\\\begin{itemize}\n\t\\\\item $0\n\\\\end{itemize}'
+    'body': '\\\\begin{itemize}\n\t\\\\[$0]$1\n\\\\end{itemize}'
   'table':
     'prefix': 'table'
     'body': '\\\\begin{table}\n\t\\\\caption{$1}\n\t\\\\label{$3}\n\t$2\n\\\\end{table}'
@@ -114,4 +114,4 @@
 '.text.tex.latex .meta.function.environment.list':
   '\\\\item[description]':
     'prefix': 'itd'
-    'body': '\\\\item[${1:description}] ${0:item}'
+    'body': '\\\\item[${1:description}]${0:item}'
